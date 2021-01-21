@@ -15,5 +15,6 @@ int main()
 	printf("%d\t%d\n",fahr,cels);
 	fahr =fahr + step;
 	}
+	puts("hi");
 	return 0;
 }
