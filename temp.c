@@ -1,9 +1,14 @@
+
+
+int main()
+=======
 #include <stdio.h>
 /**
 *main - well its main
 *Return: the usual check
 */
 int main(void)
+
 {
 	int fahr, cels;
 	int lower, upper, step;
